@@ -1,3 +1,3 @@
 # TryHackMe
 thm progress notes
-<script src="https://tryhackme.com/badge/1183621"></script>
+![ioustamora on TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ioustamora.png)
