@@ -14,3 +14,14 @@
 
 # Bages
 
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
