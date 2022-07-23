@@ -16,12 +16,20 @@
 
 ![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
 
-![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/e37d9a7e0d3f8149c8be5993a33c0afe.png)
 
-![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/c95d000fe656e44a3385a75c5e83f13b.png)
 
-![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/51fd352f27f889885e20ce5adf6897cf.png)
 
-![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/39367cbd6a1e50578abdb649f28bcdae.png)
 
-![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/3b9dda55a5e7fe544ee812317437d697.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/63dbfd781c4d2191e7b021be842aaf70.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/33eddd9e83ecb68d51960f9986079de0.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/fb1e2a93366ce52fd6af001f9ef95cfb.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/19015188a91a1f0644853394764c5573.png)
