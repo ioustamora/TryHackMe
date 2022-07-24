@@ -33,3 +33,5 @@
 ![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/fb1e2a93366ce52fd6af001f9ef95cfb.png)
 
 ![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/19015188a91a1f0644853394764c5573.png)
+
+![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/3320e529700e935ea350d2af2a783061.png)
