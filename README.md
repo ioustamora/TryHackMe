@@ -4,6 +4,8 @@
 
 # Certs
 
+![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5CZ9XPUDEM.png)
+
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JWBPC88OI1.png)
 
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7ZQNZXI7R.png)
@@ -13,6 +15,8 @@
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LRZ0DLVO66.png)
 
 # Bages
+
+![ioustamora burped](https://assets.tryhackme.com/room-badges/f2e2db8b0395f750b794ea6c81a0aacb.png)
 
 ![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
 
