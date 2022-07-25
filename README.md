@@ -16,6 +16,8 @@
 
 # Bages
 
+![Pentesting Principles](https://assets.tryhackme.com/room-badges/871b3a8580e90cb69fc9af0715201b76.png)
+
 ![ioustamora burped](https://assets.tryhackme.com/room-badges/f2e2db8b0395f750b794ea6c81a0aacb.png)
 
 ![ioustamora on TryHackMe](https://assets.tryhackme.com/room-badges/13a64973c165d29a4d0cbf1376e4a5e8.png)
