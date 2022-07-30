@@ -1,8 +1,12 @@
 # TryHackMe
 
+![ioustamora on TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ioustamora.png)
+
 [TryHackMe profile page>> ](https://tryhackme.com/p/ioustamora)
 
 # Certs
+
+![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RKTVTRXJP9.png)
 
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5CZ9XPUDEM.png)
 
