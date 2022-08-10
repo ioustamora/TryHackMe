@@ -6,6 +6,8 @@
 
 # Certs
 
+![Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZR7BK8I3CZ.png)
+
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RKTVTRXJP9.png)
 
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5CZ9XPUDEM.png)
@@ -19,6 +21,10 @@
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LRZ0DLVO66.png)
 
 # Bages
+
+![Mr. Robot](https://assets.tryhackme.com/room-badges/32b1b01acd5e899fcbce428910c26a3d.png)
+
+![30 Day Streak](https://assets.tryhackme.com/room-badges/1c409733c262c5e5616420cf9cba74ae.png)
 
 ![Pentesting Principles](https://assets.tryhackme.com/room-badges/871b3a8580e90cb69fc9af0715201b76.png)
 
