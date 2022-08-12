@@ -21,6 +21,7 @@
 ![ioustamora on TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LRZ0DLVO66.png)
 
 # Bages
+![Wireshark](https://assets.tryhackme.com/room-badges/a95e9c92bc2bf08efc1b9313533dd578.png)
 
 ![Mr. Robot](https://assets.tryhackme.com/room-badges/32b1b01acd5e899fcbce428910c26a3d.png)
 
